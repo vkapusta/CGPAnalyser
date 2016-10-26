@@ -1,0 +1,28 @@
+- Comment line start with "-"
+- Number: 0 to 15, linked to function numbering in evolution record file
+- Name: choose from the table below, NOT case-sensitive
+- Symbol: use whatever symbol desired (will be shown in gate)
+- Color: hexa representation of color of gates with the function
+-
+- operation	 name	alternative name
+- F_0        F		0
+- F_1        AND	.
+- F_2        A.~B	.~
+- F_3        A		A
+- F_4        ~A.B	~A.
+- F_5        B		B
+- F_6        XOR	^
+- F_7        OR		+
+- F_8        NOR	~+
+- F_9        XNOR	~^
+- F_(10)     ~B		~B
+- F_(11)     A+~B	+~
+- F_(12)     ~A		~A
+- F_(13)     ~A+B	~A+
+- F_(14)     NAND	~.
+- F_(15)     T		1
+-Number Name Symbol Color
+0 a a E68A2E
+1 and & 7ACC29
+2 or + 7A1F99
+3 xor ^ 00A3CC
